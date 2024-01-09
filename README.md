@@ -15,6 +15,9 @@
 - Use npm start in command line to initialize the application
 - Open Insomnia or a similar program to perform CRUD operations
 
+## Walkthrough Video:
+- https://drive.google.com/file/d/1quebeiGiVTTvbtgsSMXX7noIEZ_lbc9p/view
+
 ## Credits:
 - https://github.com/arkenwald
 - https://www.npmjs.com/package/dotenv
